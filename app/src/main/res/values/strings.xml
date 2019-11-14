@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson 5</string>
+    <string name="age">age</string>
+    <string name="name">name</string>
+    <string name="todo">TODO</string>
+    <string name="sdt">sdt</string>
+    <string name="nameAdd">Name . . .</string>
+    <string name="ageAdd">Age . .</string>
+    <string name="phone_number_add">Phone number . . .</string>
+    <string name="bt_add">Add</string>
+    <string name="button_add">Add</string>
+    <string name="button_sort">Sort</string>
+</resources>
